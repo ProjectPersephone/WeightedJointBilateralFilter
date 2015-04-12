@@ -1,5 +1,5 @@
 Project page:
 http://nma.web.nitech.ac.jp/fukushima/research/weightedjointbilateralfilter.html
 
-The code must requires OpenCV 2.45 or later.
-All codes are parallelized by using appropriated utilities which is based on cv::ParallelLoopBody( implemented in opencv2.45).
+The code requires [OpenCV](http://opencv.org/) 2.45](http://opencv.org/downloads.html) or later.
+All code is parallelized by using appropriate utilities based on [cv::ParallelLoopBody](http://docs.opencv.org/ref/master/d2/d74/classcv_1_1ParallelLoopBody.html) (implemented in opencv2.45).
